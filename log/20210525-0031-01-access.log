@@ -1,0 +1,8 @@
+::ffff:127.0.0.1 - - [18/May/2021:19:32:40 +0000] "GET /dff HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+::ffff:127.0.0.1 - GET /dff HTTP/1.1 200 12 - 2.475 ms
+::ffff:127.0.0.1 - - [24/May/2021:18:01:48 +0000] "GET / HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+::ffff:127.0.0.1 - - [24/May/2021:18:01:48 +0000] "GET /SampleJPGImage_5mbmb.jpg HTTP/1.1" 200 33 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+::ffff:127.0.0.1 - - [24/May/2021:18:01:48 +0000] "GET /favicon.ico HTTP/1.1" 200 20 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+::ffff:127.0.0.1 - - [24/May/2021:18:07:15 +0000] "GET / HTTP/1.1" 200 39 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+::ffff:127.0.0.1 - - [24/May/2021:18:07:15 +0000] "GET /SampleJPGImage_5mbmb.jpg HTTP/1.1" 200 33 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
+::ffff:127.0.0.1 - - [24/May/2021:18:07:15 +0000] "GET /favicon.ico HTTP/1.1" 200 20 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0"
